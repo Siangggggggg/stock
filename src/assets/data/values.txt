@@ -1,0 +1,8 @@
+{
+  "watchlist": [
+    {"symbol":"AAPL","intrinsicvalue":129,"prevClose":133,"premium":"33%","currentDate":"2021-04-28"},
+    {"symbol":"AMD"}
+  ]
+}
+
+
